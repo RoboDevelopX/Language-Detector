@@ -18,4 +18,3 @@ python app_one_at_a_time.py
 
 ### This software really needs some multi-threading / multi-processing functionality. 
 
-Please look at the subprocess module for multi-processing or simply go with concurrent.futures.
